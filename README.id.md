@@ -1,10 +1,14 @@
 # Auto Commit
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+[![GitHub commits](https://badgen.net/github/commits/reven-erlangga/auto-commit)](https://GitHub.com/reven-erlangga/auto-commit/commit/)
+[![GitHub forks](https://badgen.net/github/forks/reven-erlangga/auto-commit/)](https://GitHub.com/reven-erlangga/auto-commit/network/)
+[![GitHub stars](https://badgen.net/github/stars/reven-erlangga/auto-commit)](https://GitHub.com/reven-erlangga/auto-commit/stargazers/)
 
 ## 📎 Tentang
 
 Buat github project status kalian hijau 🌳🌳. Project ini dibangun untuk melakukan commit otomatis ke dalam repository kalian dan membuat status Github kalian berwarna hijai. Project ini menggunakan [Github Action](https://github.com/features/actions).
 
-_Read this in other languages_ : [English](README.md), [BAHASA INDONESIA](README.id.md)
+_Read this in other languages_ : [English](README.md), [Bahasa Indonesia](README.id.md)
 
 ## 💻 Penginstalan
 
