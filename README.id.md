@@ -8,7 +8,7 @@
 
 Buat github project status kalian hijau 🌳🌳. Project ini dibangun untuk melakukan commit otomatis ke dalam repository kalian dan membuat status Github kalian berwarna hijai. Project ini menggunakan [Github Action](https://github.com/features/actions).
 
-_Read this in other languages_ : [English](README.md), [Bahasa Indonesia](README.id.md)
+_Baca dalam bahasa lainnya_ : [English](README.md), [Bahasa Indonesia](README.id.md)
 
 ## 💻 Penginstalan
 
