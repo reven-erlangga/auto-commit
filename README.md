@@ -1,4 +1,8 @@
 # Auto Commit
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+[![GitHub commits](https://badgen.net/github/commits/reven-erlangga/auto-commit)](https://GitHub.com/reven-erlangga/auto-commit/commit/)
+[![GitHub forks](https://badgen.net/github/forks/reven-erlangga/auto-commit/)](https://GitHub.com/reven-erlangga/auto-commit/network/)
+[![GitHub stars](https://badgen.net/github/stars/reven-erlangga/auto-commit)](https://GitHub.com/reven-erlangga/auto-commit/stargazers/)
 
 ## 📎 About
 
