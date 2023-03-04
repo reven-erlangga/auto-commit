@@ -8,7 +8,7 @@
 
 Making your Github stats green 🌳🌳. This project was build to commit your repository automatically and make your Github stats green. This project use [Github Action](https://github.com/features/actions).
 
-_Read this in other languages_ : [English](README.md), [BAHASA INDONESIA](README.id.md)
+_Read this in other languages_ : [English](README.md), [Bahasa Indonesia](README.id.md)
 
 ## 💻 Installation
 
